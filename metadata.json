@@ -1,0 +1,6 @@
+{
+  "name": "DocuHub - Portal Regulasi, SOP & Instruksi Kerja",
+  "description": "Sistem manajemen dan pencarian cepat dokumen Regulasi, Standar Operasional Prosedur (SOP), dan Instruksi Kerja (IK) berbasis departemen dengan loader PDF dan notifikasi pembaruan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
